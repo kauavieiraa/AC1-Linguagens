@@ -1,0 +1,37 @@
+.titulo {
+    background-color: #0077ff;
+    color: white;
+    text-align: center;
+    font: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.padrao{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.padrao2{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #0077ff;
+    color: white;
+    font: 25px Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
